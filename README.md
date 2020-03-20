@@ -1,7 +1,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 # biopython-coronavirus
 
-A tutorial jupyter notebook illustrating how we can use [Biopython](https://github.com/biopython/biopython) to identity and perform some basic characterization of a coronavirus genome sequence.
+A tutorial jupyter notebook illustrating to use [Biopython](https://github.com/biopython/biopython) to identity and perform some basic characterization of a coronavirus genome sequence.
 
 ## Viewing the notebook
 
@@ -22,7 +22,7 @@ First clone this repository:
 git clone https://github.com/chris-rands/biopython-coronavirus
 ```
 
-You need Python (version 3.6 or higher) with the `jupyter` and `biopython` modules. If you do not already have these Python modules, I reccomend one of two options:
+You need Python (version 3.6 or higher) with the `jupyter` and `biopython` modules. If you do not already have these Python modules, I recommend one of two options:
 
 1) Installation via pip
 
