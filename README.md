@@ -8,7 +8,7 @@ A tutorial [jupyter](https://jupyter.org/) notebook illustrating how to use [bio
 Simply open the notebook link:
 https://github.com/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb
 
-You may alternatively view the notebook by pasting the address into [nbviewer](https://nbviewer.jupyter.org/)
+You may alternatively view the notebook by pasting the address into [nbviewer](https://nbviewer.jupyter.org/). A link will also be added to [biopython-notebook](https://github.com/tiagoantao/biopython-notebook).
 
 ## Viewing via Google collab notebook
 
