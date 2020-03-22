@@ -1,7 +1,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 # biopython-coronavirus
 
-A tutorial [jupyter](https://jupyter.org/) notebook illustrating how to use [biopython](https://github.com/biopython/biopython) to identity and perform some basic characterization of a coronavirus genome sequence.
+A tutorial [Jupyter](https://jupyter.org/) Notebook illustrating how to use [Biopython](https://github.com/biopython/biopython) to identity and perform some basic characterization of a coronavirus genome sequence. The objective of this tutorial is to introduce some of the Biopython modules in an applied biological context.
 
 ## Viewing the notebook
 
