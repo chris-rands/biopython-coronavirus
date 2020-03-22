@@ -18,7 +18,8 @@ TO DO
 
 First clone this repository:
 ```
-git clone https://github.com/chris-rands/biopython-coronavirus
+git clone https://github.com/chris-rands/biopython-coronavirus;
+cd biopython-coronavirus
 ```
 
 Requires Python (version 3.6 or higher) with the `jupyter` and `biopython` modules. One of two options is recommended:
