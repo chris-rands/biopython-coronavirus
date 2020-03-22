@@ -5,7 +5,7 @@ A tutorial [Jupyter](https://jupyter.org/) Notebook illustrating how to use [Bio
 
 ## Viewing the Notebook
 
-Simply open the [notebook link here](https://github.com/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb).
+Simply open the [Notebook link here](https://github.com/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb).
 
 Alternatively view the Notebook by pasting the address into [nbviewer](https://nbviewer.jupyter.org/).
 
