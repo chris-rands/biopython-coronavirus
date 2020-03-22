@@ -8,9 +8,9 @@ A tutorial [jupyter](https://jupyter.org/) notebook illustrating how to use [bio
 Simply open the notebook link:
 https://github.com/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb
 
-You may alternatively view the notebook by pasting the address into [nbviewer](https://nbviewer.jupyter.org/). A link will also be added to [biopython-notebook](https://github.com/tiagoantao/biopython-notebook).
+Alternatively view the notebook by pasting the address into [nbviewer](https://nbviewer.jupyter.org/).
 
-## Viewing via Google collab notebook
+## Running the notebook via Google collab
 
 TO DO
 
@@ -21,7 +21,7 @@ First clone this repository:
 git clone https://github.com/chris-rands/biopython-coronavirus
 ```
 
-You need Python (version 3.6 or higher) with the `jupyter` and `biopython` modules. If you do not already have these Python modules, I recommend one of two options:
+Requires Python (version 3.6 or higher) with the `jupyter` and `biopython` modules. One of two options is recommended:
 
 1) Installation via pip
 
@@ -40,7 +40,13 @@ conda activate biopython-coronavirus
 
 ## Running the notebook locally
 
-You can open the notebook as follows:
+Open the notebook as follows:
 ```
 jupyter-notebook biopython-coronavirus-notebook.ipynb
 ```
+
+## Related Biopython resources
+
+- [Official tutorial documentation](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
+- [Peter's workshop](https://github.com/peterjc/biopython_workshop)
+- [Notebook tutorials](https://github.com/tiagoantao/biopython-notebook)
