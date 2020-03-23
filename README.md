@@ -9,11 +9,22 @@ Simply open the [Notebook link here](https://github.com/chris-rands/biopython-co
 
 Alternatively view the Notebook by pasting the address into [nbviewer](https://nbviewer.jupyter.org/).
 
-## Running the Notebook via Google collab
+## Running the Notebook online
 
-TO DO
+Click the icons below to launch one of the two options:
 
-## Installing the Notebook locally
+1. via Google collab
+
+<div class="devsite-table-wrapper"><table class="tfo-notebook-buttons" align="left">
+<td><a target="_blank" href="https://colab.research.google.com/drive/12W2kRj5zK4PhAw1h26ULUHdTYP_KD0TN">
+<img src="https://www.tensorflow.org/images/colab_logo_32px.png">Run in Google Colab</a></td>
+</table></div>
+
+2. via Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris-rands/biopython-coronavirus/master)
+
+## Running the Notebook locally
 
 First clone this repository:
 ```
@@ -37,8 +48,6 @@ For installation without root access add the `--user` flag.
 conda env create -f biopython-coronavirus-environment.yml
 conda activate biopython-coronavirus
 ```
-
-## Running the Notebook locally
 
 Open the Notebook as follows:
 ```
