@@ -45,7 +45,7 @@ For installation without root access add the `--user` flag.
 2) Installation via [conda](https://docs.conda.io/en/latest/)
   
 ```
-conda env create -f biopython-coronavirus-environment.yml
+conda env create -f environment.yml
 conda activate biopython-coronavirus
 ```
 
