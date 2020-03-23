@@ -16,13 +16,13 @@ Click the icons below to launch one of the two options:
 1. via Google collab
 
 <div class="devsite-table-wrapper"><table class="tfo-notebook-buttons" align="left">
-<td><a target="_blank" href="https://colab.research.google.com/drive/12W2kRj5zK4PhAw1h26ULUHdTYP_KD0TN">
+<td><a target="_blank" href="https://colab.research.google.com/github/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb">
 <img src="https://www.tensorflow.org/images/colab_logo_32px.png">Run in Google Colab</a></td>
 </table></div>
 
 2. via Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris-rands/biopython-coronavirus/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris-rands/biopython-coronavirus/master?filepath=biopython-coronavirus-notebook.ipynb)
 
 ## Running the Notebook locally
 
