@@ -13,12 +13,9 @@ Alternatively view the Notebook by pasting the address into [nbviewer](https://n
 
 Click the icons below to launch one of the two options:
 
-1. via Google collab
+1. via Google colab
 
-<div class="devsite-table-wrapper"><table class="tfo-notebook-buttons" align="left">
-<td><a target="_blank" href="https://colab.research.google.com/github/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb">
-<img src="https://www.tensorflow.org/images/colab_logo_32px.png">Run in Google Colab</a></td>
-</table></div>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb)
 
 2. via Binder
 
